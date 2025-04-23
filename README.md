@@ -1,6 +1,6 @@
 # alifsmart-payments
 
-# this service ran a function as :
+# function :
 - Proses pembayaran SPP (QRIS/OVO/DANA)
 - Auto-generate invoice PDF
 - Riwayat Transaksi
