@@ -1,11 +1,11 @@
 # alifsmart-payments
 
 # this service ran a function as :
-- Proses pembayaran SPP QRIS
+- Proses pembayaran SPP (QRIS/OVO/DANA)
 - Auto-generate invoice PDF
-- Transaction History
+- Riwayat Transaksi
 
 # database :
-- payments -> menyimpan semua transaksi pembayaran SPP (id_pembayaran, student, parent, metode_pembayaran, status)
-- invoices -> template dan riwayat faktur yang digenerate otomatis
-- payment_gateways -> integrasi QRIS (API Keys, Callback URLs)
+- payments -> transaksi
+- invoices -> faktur
+- payment_gateways -> integrasi pembayaran
