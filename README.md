@@ -5,7 +5,7 @@
 - Auto-generate invoice PDF
 - Riwayat Transaksi
 
-# database :
+# tables :
 - payments -> transaksi
 - invoices -> faktur
 - payment_gateways -> integrasi pembayaran
